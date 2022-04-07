@@ -1,0 +1,16 @@
+{
+  "name": "bank-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL3",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mariadb": "^3.0.0"
+  }
+}
